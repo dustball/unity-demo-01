@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Vive-Teleporter-master/Assets/Vive-Teleporter/Example Scenes/testbed_vive.unity
+  isLoaded: 1
+  isActive: 1
